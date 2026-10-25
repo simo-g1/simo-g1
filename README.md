@@ -30,10 +30,10 @@ Front-End Developer student learning HTML, CSS & JavaScript. Building my way tow
   <a href="https://www.facebook.com/share/1HUFNuq9C7/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://discord.com/users/simo_g1" target="_blank">
+  <a href="https://discord.gg/ZVfweMYB" target="_blank">
     <img src="https://img.shields.io/badge/Discord-.sm_sm.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://wa.me/" target="_blank">
+  <a href="https://wa.me/201010356493" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-simo.dev-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="mailto:simonot82@gmail.com">
