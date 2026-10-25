@@ -22,27 +22,22 @@ Front-End Developer student learning HTML, CSS & JavaScript. Building my way tow
 
 <p>
   <a href="https://www.linkedin.com/in/simo-not-086654399" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="instagram" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.facebook.com/share/1KHeyGSOJU/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="facebook" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://discord.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discord/discord-original.svg" alt="discord" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://wa.me/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/whatsapp/whatsapp-original.svg" alt="whatsapp" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:simonot82@gmail.com">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="email" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
