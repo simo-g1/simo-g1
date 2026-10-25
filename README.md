@@ -66,5 +66,9 @@ Front-End Developer student learning HTML, CSS & JavaScript. Building my way tow
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simo-g1&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simo-g1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simo-g1&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simo-g1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
 </p>
