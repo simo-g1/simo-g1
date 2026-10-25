@@ -12,10 +12,6 @@
 
 Front-End Developer student learning HTML, CSS & JavaScript. Building my way toward full-stack development, one project at a time. I craft clean, responsive UIs, chase bugs until they regret existing, and somehow still enjoy JavaScript (don't ask).
 
-🎯 **Focused Path:** Front-End ➔ System Design (current stage) ➔ Cloud Services (i don't know how).
-
-🔥 Check out my [Portfolio](https://simo-g1.github.io/)  
-🤝 Open to collaboration with Back-End devs who write real code (not motivational console.logs)  
 📩 simonot82@gmail.com | 📱 WhatsApp me.
 
 ---
