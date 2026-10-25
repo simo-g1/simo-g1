@@ -1,17 +1,45 @@
-<h1 align="center">👋 I'm Mohamed Ahmed / simo.g3</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simo-g1&label=Profile%20views&color=0e75b6&style=flat" alt="simo-g1" /> </p>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@simo-not" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@simo-not" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/simo not‏" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simo not‏" height="30" width="40" /></a>
-<a href="https://fb.com/uh.simo687720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uh.simo687720" height="30" width="40" /></a>
-<a href="https://instagram.com/simo.g3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simo.g3" height="30" width="40" /></a>
+# 🖐️ I'm Mohamed Ahmed / simo-g1
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=simo-g1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=simo-g1&show_icons=true&locale=en&layout=compact" alt="simo-g1" /></p>
+### 📝 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=simo-g1&" alt="simo-g1" /></p>
+Front-End Developer student learning HTML, CSS & JavaScript. Building my way toward full-stack development, one project at a time. I craft clean, responsive UIs, chase bugs until they regret existing, and somehow still enjoy JavaScript (don't ask).
+
+🎯 **Focused Path:** Front-End ➔ System Design (current stage) ➔ Cloud Services (i don't know how).
+
+🔥 Check out my [Portfolio](https://simo-g1.github.io/)  
+🤝 Open to collaboration with Back-End devs who write real code (not motivational console.logs)  
+📩 simonot82@gmail.com | 📱 WhatsApp me.
+
+---
+
+### 🛠️ Languages and Tools
+
+**Tech Stack:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Still Learning These:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simo-g1&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simo-g1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
+
+</div>
