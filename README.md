@@ -79,6 +79,9 @@ A web development student passionate about building websites, solving problems, 
   <a href="https://www.facebook.com/simo.g3.dev">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+  <a href="https://wa.me/201010356493">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
 </p>
 
 ---
