@@ -1,71 +1,90 @@
 <div align="center">
 
-# 🖐️ I'm Mohamed Ahmed / simo-g1
+# Hey, I'm Simo 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=simo-g1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+### Front-End Developer in Progress | Future Full-Stack Developer
+
+Building modern, responsive web experiences — one project at a time.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=simo-g1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
 ---
 
-### 📝 About Me
+## 🧑‍💻 About Me
 
-Front-End Developer student learning HTML, CSS & JavaScript. Building my way toward full-stack development, one project at a time. I craft clean, responsive UIs, chase bugs until they regret existing, and somehow still enjoy JavaScript (don't ask).
+I'm Mohamed Ahmed, also known as Simo.
 
-🎯 **Focused Path:** Front-End ➔ System Design (current stage) ➔ Cloud Services (i don't know how).
+A web development student passionate about building websites, solving problems, and continuously improving my skills.
+
+- 🌱 Currently learning **JavaScript** and strengthening my Front-End skills.
+- 💻 Enjoy building responsive and user-friendly websites.
+- 🎯 Working toward becoming a **Full-Stack Developer**.
+- 🧠 I believe in learning by building real projects.
 
 ---
 
-### 🌐 Connect with me:
+## 🛠️ Tech Stack
+
+### Languages & Technologies
 
 <p>
-  <a href="https://www.linkedin.com/in/simo-not-086654399" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/simo.g3" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/simo.g3.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://discord.gg/ZVfweMYB" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-.sm_sm.-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://wa.me/201010356493" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-simo.dev-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:simonot82@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-simonot82@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript" />
+</p>
+
+### Tools I Use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" />
 </p>
 
 ---
 
-### 🧠 Tech Stack
+## 🚀 Featured Projects
+
+*Some of the projects I've built during my learning journey.*
+
+<!-- Add your best projects here -->
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=simo-g1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simo-g1&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+
+<br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=simo-g1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
 
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</p>
-
-### Still Learning These
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <a href="https://www.instagram.com/simo.g3">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.tiktok.com/@simo.dev3">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="https://www.facebook.com/simo.g3.dev">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simo-g1&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simo-g1&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simo-g1&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
-</p>
+*Learning, building, and getting better every day.*
+
+</div>
