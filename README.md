@@ -27,7 +27,7 @@ Front-End Developer student learning HTML, CSS & JavaScript. Building my way tow
   <a href="https://www.instagram.com/simo.g3" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.facebook.com/share/1HUFNuq9C7/" target="_blank">
+  <a href="https://www.facebook.com/simo.g3.dev" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://discord.gg/ZVfweMYB" target="_blank">
